@@ -1,4 +1,4 @@
-# Amir Hosein Hashemi
+# Amirhosein Hashemi
 ### Full-Stack Developer ➔ AI Engineer
 
 > "AI will take hold of the cutting edge of science, and this is incredible. All complex challenges arise from ambiguities—dimensions our minds cannot fully grasp yet. AI has the profound potential to demystify these gaps and make the universe fundamentally more intuitive."
