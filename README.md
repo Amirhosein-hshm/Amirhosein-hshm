@@ -53,7 +53,7 @@ A highly scalable, production-grade architecture blueprint designed to demonstra
 * **Real-time Engine:** Low-latency bi-directional communication powered by WebSockets and Server-Sent Events (SSE).
 * **Containerization & Orchestration:** Multi-container environments managed via **Docker**, fully prepared for distributed deployment using **Kubernetes** clusters.
 
-#### 💻 Frontend Ecosystem (Micro-Frontends)
+#### 💻 Frontend Ecosystem 
 * **Next.js & React.js:** Server-side rendered (SSR) applications optimized for performance, SEO, and complex real-time state management.
 * **Vue.js:** Lightweight, reactive dashboards built to handle highly dynamic, streaming data feeds seamlessly.
 
